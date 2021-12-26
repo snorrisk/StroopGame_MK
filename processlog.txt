@@ -1,0 +1,10 @@
+Day 1:
+
+I spent a couple hours learning how to start a git repository for version control.
+I've never started one before, only contributed to existing repositories, and was confident in my ability to complete this task.
+I went through a couple forum tutorials, downloading gitbash, however felt this might be a little more advanced than what I required, and ended up finding a trusty Brackey's tutorial on linking your Unity project to github.
+I'd previously only used GithubDesktop, and chose to stay in-line with what I already knew in order to move this test along quicker, as I have three more tests to complete, and while I am away on holiday.
+I created a quick, basic scene in Unity that has a screen and a few buttons. I'm already thinking that I'll use a more than three buttons, but it isn't set in stone yet.
+I don't havve a lot of hours in the day to work on the MK tests, and as it's 3am, I'm deciding to call it a night and pick up where I left tomorrow morning.
+Tomorrow I will look up tutorials on creating quiz-type games in Unity, and I'm confident I will be able to recreate the quiz game I made during my student time at RMIT to apply here.
+It's my beagle's 6th birthday today!
