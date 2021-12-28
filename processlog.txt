@@ -8,3 +8,8 @@ I created a quick, basic scene in Unity that has a screen and a few buttons. I'm
 I don't havve a lot of hours in the day to work on the MK tests, and as it's 3am, I'm deciding to call it a night and pick up where I left tomorrow morning.
 Tomorrow I will look up tutorials on creating quiz-type games in Unity, and I'm confident I will be able to recreate the quiz game I made during my student time at RMIT to apply here.
 It's my beagle's 6th birthday today!
+
+Day 2:
+A compiler error in Unity is hindering me from opening the project, and as it's within Unity, instead of reverting back to an earlier push, I'd like to begin with a new project file. I'm not too far ahead that I require too much work to get back up to speed.
+[UPDATE]
+I followed the advice that visual studio provides and added UnityEngine.UI, and this solved the issue of error CS0246, and I also had a typo for another line which I rectified. I'm still concerned about the compiler issue, so I will continue to work on the new project file.
