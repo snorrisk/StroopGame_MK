@@ -5,7 +5,6 @@ public class QuestionsAndAnswers
 {
 
     // Creating a class for the Quiz Manager
-
     public string Questions;
     // Array
     public string[] Answers;

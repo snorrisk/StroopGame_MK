@@ -13,3 +13,10 @@ Day 2:
 A compiler error in Unity is hindering me from opening the project, and as it's within Unity, instead of reverting back to an earlier push, I'd like to begin with a new project file. I'm not too far ahead that I require too much work to get back up to speed.
 [UPDATE]
 I followed the advice that visual studio provides and added UnityEngine.UI, and this solved the issue of error CS0246, and I also had a typo for another line which I rectified. I'm still concerned about the compiler issue, so I will continue to work on the new project file.
+
+Tutorial references for this part was at:
+https://www.youtube.com/watch?v=G9QDFB2RQGA
+and
+https://www.youtube.com/watch?v=POUemIGCyr0
+
+This is the end of the day for me, and I will be heading to bed. I've got to remember to continue to push after drastic changes, which I will have to determine this myself depending on what progress I'm not willing to lose. I've also got to try to squeeze more time into completing this task, securing at least a couple hours in the morning as well as at night. Couldn't have taken this test at the worst time.
